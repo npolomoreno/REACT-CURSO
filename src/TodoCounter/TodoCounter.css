@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&family=Roboto:wght@400;500;700;900&family=Ubuntu:wght@300&display=swap');
+
+
+.TodoCounter{
+    font-family:  'IBM Plex Mono', monospace;
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+    padding: 48px;
+    color: #FFFFFF;
+    
+   
+}
+
